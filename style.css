@@ -260,6 +260,7 @@ i {
   display: flex;
   gap: 1.25rem;
   padding-top: 2.5rem;
+  flex-wrap: wrap;
 }
 .tecnologias .more {
   display: flex;
@@ -311,10 +312,6 @@ i {
 }
 .dark .tooltip.ativo h2 {
   color: #D3D0E3;
-}
-
-progress {
-  color: #64607D;
 }
 
 .projetos {
