@@ -90,6 +90,7 @@ i {
 }
 .sidebar img {
   margin-top: 1.5625rem;
+  border-radius: 50%;
 }
 @media (max-width: 450px) {
   .sidebar img {
